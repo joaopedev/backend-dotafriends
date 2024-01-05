@@ -1,0 +1,19 @@
+{
+  "name": "backend-dotafriends",
+  "version": "1.0.0",
+  "description": "This is the API for send emails for app web Dota 2 JassaFriends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Pedro Sousa e Silva",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^7.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6"
+  }
+}
